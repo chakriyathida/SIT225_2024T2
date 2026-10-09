@@ -1,0 +1,10 @@
+# secrets - never commit
+arduino_secrets.h
+service-account.json
+*service-account*.json
+*firebase-adminsdk*.json
+.env
+# clutter
+.DS_Store
+__pycache__/
+*.pyc
